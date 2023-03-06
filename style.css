@@ -16,4 +16,15 @@
 #textbox
 {
     width: 300px;
+    background-color: aliceblue;
+}
+body
+{
+    background-color:aliceblue;
+}
+
+img
+{
+width:1000px;
+height:500px;
 }
